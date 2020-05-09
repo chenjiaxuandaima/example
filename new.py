@@ -13,3 +13,8 @@ def sub(a,b):
         return a-b
     except:
         raise TypeError
+def divide(a,b):
+    try:
+        return a/b
+    except:
+        raise TypeError
