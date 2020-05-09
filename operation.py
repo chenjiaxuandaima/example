@@ -33,3 +33,6 @@ def factorial(a):
     else:
         return a*factorial(a-1)S
 >>>>>>> beta_A
+'' '' ''
+TODO:new function
+'' '' ''
